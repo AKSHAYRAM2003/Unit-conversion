@@ -1,0 +1,115 @@
+#main-box {
+    /* height: 90vh;
+    width: 70vh; */
+    width: 550px;
+    height: 697px;
+    background-color: whitesmoke;
+    border-radius: 12px;
+    margin-top:10px;
+    margin-left: 33%;
+}
+
+#hero-section{
+    font-family: "Poppins", sans-serif;
+    font-size: 25px;
+    color: white;
+    background: #6943FF;
+    height: 40vh; /* Set height to 200 pixels */
+    width: 550px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 30px;
+    border-top-left-radius: 11.2px;
+    border-top-right-radius:11.2px;
+}
+
+#my-number{
+    width: 120px;
+    height: 50px;
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+    border: 2px solid #B295FF;
+    text-align: center;
+    padding: 10px;
+    border-radius: 8px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+#convert-btn{
+    width: 120px;
+    height: 50px;
+    font-family: "Poppins", sans-serif;
+    font-size:20px;
+    font-weight: 200px;
+    border-radius: 10px;
+    cursor: pointer;
+    border: white;
+
+}
+
+
+#length , h1{
+height: 108.57px;
+width:480px;
+top: 321px;
+left: 25px;
+color: rgb(71, 65, 102);
+background-color: #FFFF;
+margin-bottom: 20px;
+margin-left:35px;
+display: flex;
+justify-content: center;
+align-items: center;
+border-radius: 12px;
+
+}
+
+#length , h4{
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+}
+
+#volume{
+height: 108.57px;
+width: 480px;
+top: 321px;
+left: 25px;
+background-color: white;
+margin-bottom: 20px;
+margin-left:35px;
+display: flex;
+justify-content: center;
+align-items: center;
+border-radius: 12px;
+color: rgb(71, 65, 102);
+
+}
+
+#volume , h2{
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+}
+
+#mass{
+height: 108.57px;
+width: 480px;
+top: 321px;
+left: 25px;
+background-color:white;
+margin:auto;
+margin-left:35px;
+display: flex;
+justify-content: center;
+align-items: center;
+border-radius: 12px;
+color: rgb(71, 65, 102);
+
+}
+#mass , h2{
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+}
