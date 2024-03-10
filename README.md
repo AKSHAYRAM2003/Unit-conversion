@@ -31,11 +31,9 @@ This project is built using:
 ## LIVE Demo
 
 [https://unitconversion-solo-project.netlify.app/]
+
+
+## Scrimba fork
 [https://scrimba.com/scrim/co398478b9df960c5fbeee344]
 
-## Getting Started
-
-To run this project locally, follow these steps:
-
-1. Clone this repository to your local machine:
 
